@@ -19,7 +19,7 @@
 }
 
 body {
-  background: var(--background);
+  background-image: linear-gradient(to left bottom, #9fb1c2, #96acc3, #8da6c3, #86a0c4, #7f9ac4, #799fca, #72a4d0, #6aa9d5, #63b9dd, #62c9e1, #6cd9e2, #7ee7df);
   color: var(--text);
 }
 
@@ -48,6 +48,8 @@ a {
 @media (max-width: 720px) {
   html {
     font-size: 87.5%;
+    display: flex;
+    flex-direction: column;
   }
 }
 

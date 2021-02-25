@@ -1,7 +1,7 @@
 .challegenBoxConteiner {
     height: 100%;
 
-    background: var(--white);
+    background-image: linear-gradient(to left bottom, #828f9b, #8191a1, #8093a8, #8094ae, #8096b5, #819ebe, #81a5c7, #81adcf, #83bdd8, #89cddf, #95dce3, #a5ebe6);
     border-radius: 5px;
     box-shadow: 0 0 60px rgba(0,0,0,0.05);
     padding: 1.5rem 2rem;

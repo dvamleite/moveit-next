@@ -75,13 +75,13 @@
 }
 
 .CountdownButton:not(:disabled):hover{
-    background-image: linear-gradient(to right top, #090, #091, #900, #901);  
+    background-image: linear-gradient(to right top, #090, #091, rgb(87, 246, 23));  
 
-    box-shadow: -5px -10px 30px #900,
+    box-shadow: -5px -10px 30px rgb(65, 238, 117),
     6px 9px 15px #090;
-    -webkit-box-shadow: -5px -10px 30px #900,
+    -webkit-box-shadow: -5px -10px 30px rgb(90, 255, 131),
     6px 9px 15px #090;
-    -moz-box-shadow: -5px -10px 30px #900,
+    -moz-box-shadow: -5px -10px 30px rgb(135, 255, 98),
     6px 9px 15px #090;
 }
 

@@ -47,9 +47,7 @@ a {
 
 @media (max-width: 720px) {
   html {
-    font-size: 87.5%;
-    display: flex;
-    flex-direction: column;
+    font-size: 87.5%;   
   }
 }
 

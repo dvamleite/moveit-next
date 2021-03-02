@@ -30,3 +30,9 @@ border-radius: 50%;
     width: 1rem;
     height: 1rem;
 }
+
+@media (max-width: 720px) {
+    .profileContainer {
+        margin-top: 2.5rem;
+    }
+}

@@ -24,11 +24,15 @@ export default function Home(props: HomeProps) {
       currentExperience = {props.currentExperience}
       challengesCompleted = {props.challengesCompleted} 
     >
+
+  
+
     <div className={styles.container}> 
       <Head>
         <title>Moviment-NLW4</title>
     </Head>
-
+  
+        
       <ExperienceBar />
       <CountdownProvider>
       <section>
